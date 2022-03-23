@@ -1,6 +1,6 @@
 # frutoefruta
 
-Projeto Fruto & Fruta - Alura | HTML5 + CSS3 + FLEX + Bootstrap | Responsivo
+Projeto Fruto & Fruta - Alura | HTML5 + CSS3 + FLEX | Responsivo
 
 Toda a estilização que será usada no projeto do figma.
 
